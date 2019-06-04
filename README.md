@@ -1,8 +1,12 @@
 CT Lung Images Segmentation
 ===
-This is CT lung images segmentation implementation using [U-Net : Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/). 
+1. CT lung images segmentation implementation using [U-Net : Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/). 
 
 ![u-net-architecture](img/u-net-architecture.png)
+ 
+2. CT lung images segmentation implementation using [TernausNet : https://arxiv.org/pdf/1801.05746.pdf).   
+
+![TernausNet-architecture](img/TernausNet-architecture.png)
  
 Overview
 ---
@@ -19,3 +23,7 @@ Requirement
 * Keras
 * Python packages : numpy, matplotlib, opencv, and so on...
 
+Reference Implementations
+---
++ https://github.com/zhixuhao/unet
++ https://github.com/ternaus/TernausNet
