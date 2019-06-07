@@ -4,7 +4,7 @@ CT Lung Images Segmentation
 
 ![u-net-architecture](img/u-net-architecture.png)
  
-2. CT lung images segmentation implementation using [TernausNet : https://arxiv.org/pdf/1801.05746.pdf).   
+2. CT lung images segmentation implementation using [TernausNet] (https://arxiv.org/pdf/1801.05746.pdf).   
 
 ![TernausNet-architecture](img/TernausNet-architecture.png)
  
